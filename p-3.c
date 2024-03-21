@@ -1,3 +1,4 @@
+//right tri bin col
 #include<stdio.h>
 int main()
 {
