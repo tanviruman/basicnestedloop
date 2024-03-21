@@ -1,4 +1,4 @@
-//ABC Column
+//right tri ABC Column
 #include<stdio.h>
 int main()
 {
