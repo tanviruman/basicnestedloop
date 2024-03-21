@@ -1,4 +1,4 @@
-//ABC row
+//rigt tri ABC row
 
 #include<stdio.h>
 int main()
