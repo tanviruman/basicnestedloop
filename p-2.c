@@ -1,3 +1,4 @@
+//right tri num col
 #include<stdio.h>
 int main()
 {
