@@ -1,3 +1,4 @@
+//right tri bin row
 #include<stdio.h>
 int main()
 {
